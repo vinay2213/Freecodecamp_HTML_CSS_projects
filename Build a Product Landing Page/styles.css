@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+    body {
+      font-size: 14px;
+    }
+}
+  
+#nav-bar {
+    display: inline;
+    position: fixed; 
+    top: 0;
+}
+  
+.flex {
+    display: flex;
+}
